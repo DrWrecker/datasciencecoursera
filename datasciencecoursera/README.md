@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-For Coursera Data Science course
 
 =======
 # datasciencecoursera
