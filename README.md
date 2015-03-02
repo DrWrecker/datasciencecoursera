@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 For Coursera Data Science course
 
 =======
